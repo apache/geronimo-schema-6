@@ -33,15 +33,15 @@
     <groupId>org.apache.geronimo.schema</groupId>
     <artifactId>geronimo-schema-javaee_6</artifactId>
     <name>Geronimo Schema :: JAVA EE 6</name>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <description>Geronimo project to build javaee schemas using xmlbeans</description>
 
     <scm>
-        <connection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/tags/geronimo-schema-javaee_6-1.0</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/tags/geronimo-schema-javaee_6-1.0</developerConnection>
-        <url>https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/tags/geronimo-schema-javaee_6-1.0</url>
+        <connection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/trunk</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/trunk</developerConnection>
+        <url>https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-javaee_6/trunk</url>
     </scm>
 
     <dependencies>
